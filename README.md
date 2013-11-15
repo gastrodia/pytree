@@ -1,8 +1,6 @@
 pytree
 ======
 
-replace and extend linux tree command
-
 一个python实现的更强大的linux tree
 
 在兼容一切linux tree的基础上增加
